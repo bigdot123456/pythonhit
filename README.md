@@ -22,6 +22,15 @@ PS: 如果你不是第一次读了, 你可以在[这里](https://github.com/satw
 
 那么, 让我们开始吧...
 
+```shell
+echo "# pythonhit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bigdot123456/pythonhit.git
+git push -u origin master
+```
+
 # Table of Contents/目录
 <!-- TOC -->
 
